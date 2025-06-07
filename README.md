@@ -24,7 +24,7 @@ Smart Meal Planner is a web-based application designed to help users plan health
 
 ## 🌐 Demo
 
-[🔗 Live Site](https://your-deployment-url.com)
+[🔗 Live Site](https://v0-modern-responsive-css.vercel.app/)
 
 ## 📦 Installation
 
